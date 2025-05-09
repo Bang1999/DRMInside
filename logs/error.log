@@ -90,3 +90,5 @@ Exception in thread "main" java.lang.NumberFormatException: For input string: "n
 2025/04/30 17:34:33 [notice] 31526#0: signal process started
 2025/04/30 17:35:36 [notice] 31853#0: signal process started
 2025/05/01 11:37:57 [alert] 32091#0: unlink() "/Users/bdh/Desktop/디알엠인사이드/nginx-clojure-0.5.3/logs/nginx.pid" failed (1: Operation not permitted)
+2025/05/09 15:38:01 [emerg] 89111#0: mkdir() "/Users/bdh/DRMInside/temp/client_body_temp" failed (2: No such file or directory)
+2025/05/09 15:39:08 [notice] 89393#0: signal process started
